@@ -1,6 +1,6 @@
 # Pokemon-Stadium
 
-![Screenshot]()
+![Screenshot](PokemonStadium.jpg)
 
 Game Description
 
